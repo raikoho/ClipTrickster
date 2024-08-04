@@ -4,9 +4,9 @@ It is a multi-functional clipboard monitoring and modification tool that runs in
 Running in normal mode or silently in the background, ClipTrickster offers three primary modes of operation: monitoring, modifying, and destroying clipboard content. Whether you need to log your copied content with timestamps, introduce random modifications, or ensure nothing remains in the clipboard, ClipTrickster has you covered.
 
 ## Features
-- Clipboard Monitoring: Constantly monitors clipboard activity, saving copied content with structured timestamps for easy tracking and reference.
-- Clipboard Modification: Automatically adds random characters to clipboard content, ensuring data integrity is disrupted and enhancing security.
-- Clipboard Destruction: Clears the clipboard continuously, preventing any copied data from being used or retrieved.
+- Clipboard Monitoring: Constantly monitors clipboard activity, saving copied content with structured timestamps for easy tracking and reference. Complete copy history.
+- Clipboard Modification: Automatically adds random characters to clipboard content, ensuring data integrity is disrupted and enhancing security. Makes every copy wrong and inaccurate.
+- Clipboard Destruction: Clears the clipboard continuously, preventing any copied data from being used or retrieved. Makes it impossible to use any copying.
 - Silent and Normal Modes: Choose between silent operation, which hides all activities and logs, and normal mode, which provides user-friendly prompts and visibility.
 
 ## Installation
