@@ -1,0 +1,7 @@
+module: modify 
+activity: normal
+
+# Below For comments and mini instruction
+# module: monitor / modify / destroy
+# activity: normal / silence
+# end of config.txt
