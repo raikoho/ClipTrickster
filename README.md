@@ -11,10 +11,10 @@ Running in normal mode or silently in the background, ClipTrickster offers three
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/clipninja.git
+git clone https://github.com/raikoho/ClipTrickster.git
 cd ClipTrickster
 pip install -r requirements.txt
-python ClipTrickster.py
+python cliptrickster.py
 ```
 
 ## Configuration
