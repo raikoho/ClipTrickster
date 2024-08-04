@@ -28,6 +28,9 @@ activity: normal
 //* activity: normal / silence
 //* end of config.txt
 ```
+That is, you can set one of 3 modules in "module:" and one of 2 activity in "activity:" in accordance:
+1) monitor / modify / destroy  
+2) normal / silence
 
 ## Contact
 For any questions or issues, please open an issue on GitHub or contact the project maintainer at https://www.linkedin.com/in/bohdan-misyonh/
