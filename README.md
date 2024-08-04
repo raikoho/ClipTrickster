@@ -9,17 +9,16 @@ Running in normal mode or silently in the background, ClipTrickster offers three
 - Silent and Normal Modes: Choose between silent operation, which hides all activities and logs, and normal mode, which provides user-friendly prompts and visibility.
 
 ## Installation
-'''
+```bash
 git clone https://github.com/yourusername/clipninja.git
 cd ClipTrickster
 pip install -r requirements.txt
 python ClipTrickster.py
-'''
+```
 
 ## Configuration
 Edit the config.txt file to choose your desired module and activity mode:
-
-'''
+```bash
 module: monitor
 activity: normal
 
@@ -27,7 +26,7 @@ activity: normal
 //* module: monitor / modify / destroy
 //* activity: normal / silence
 //* end of config.txt
-'''
+```
 
 ## Contact
 For any questions or issues, please open an issue on GitHub or contact the project maintainer at https://www.linkedin.com/in/bohdan-misyonh/
